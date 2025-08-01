@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\VP project\\GPA_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\cgpacalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\cgpacalculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\gpacalculate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\gpacalculate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\cgpacalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\cgpacalculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\gpacalculate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\gpacalculate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\selectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\selectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\gradesheet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\gradesheet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\gradesheet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\gradesheet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\selectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\selectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|d:\\desktop\\vp project\\gpa_calculator\\gpa_calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{340DA8E3-4C1A-47A4-A091-8B510F1F792D}|GPA_Calculator\\GPA_Calculator.csproj|solutionrelative:gpa_calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPACalculate.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GPACalculate.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\GPACalculate.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GPACalculate.xaml",
+              "RelativeToolTip": "GPA_Calculator\\GPACalculate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T10:57:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GradeSheet.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GradeSheet.xaml.cs",
+              "RelativeDocumentMoniker": "GPA_Calculator\\GradeSheet.xaml.cs",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GradeSheet.xaml.cs",
+              "RelativeToolTip": "GPA_Calculator\\GradeSheet.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:15:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPACalculate.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GPACalculate.xaml.cs",
+              "RelativeDocumentMoniker": "GPA_Calculator\\GPACalculate.xaml.cs",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GPACalculate.xaml.cs",
+              "RelativeToolTip": "GPA_Calculator\\GPACalculate.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:11:48.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CGPACalculator.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\CGPACalculator.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\CGPACalculator.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\CGPACalculator.xaml",
+              "RelativeToolTip": "GPA_Calculator\\CGPACalculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-30T19:54:45.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CGPACalculator.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\CGPACalculator.xaml.cs",
+              "RelativeDocumentMoniker": "GPA_Calculator\\CGPACalculator.xaml.cs",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\CGPACalculator.xaml.cs",
+              "RelativeToolTip": "GPA_Calculator\\CGPACalculator.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:54:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeSheet.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GradeSheet.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\GradeSheet.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\GradeSheet.xaml",
+              "RelativeToolTip": "GPA_Calculator\\GradeSheet.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T11:13:22.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\SelectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "GPA_Calculator\\SelectionPage.xaml.cs",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\SelectionPage.xaml.cs",
+              "RelativeToolTip": "GPA_Calculator\\SelectionPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:59:53.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectionPage.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\SelectionPage.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\SelectionPage.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\SelectionPage.xaml",
+              "RelativeToolTip": "GPA_Calculator\\SelectionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T08:49:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Start.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\Start.xaml.cs",
+              "RelativeDocumentMoniker": "GPA_Calculator\\Start.xaml.cs",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\Start.xaml.cs",
+              "RelativeToolTip": "GPA_Calculator\\Start.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:51:52.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Start.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\Start.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\Start.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\Start.xaml",
+              "RelativeToolTip": "GPA_Calculator\\Start.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T11:16:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GPA_Calculator\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\VP project\\GPA_Calculator\\GPA_Calculator\\MainWindow.xaml",
+              "RelativeToolTip": "GPA_Calculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T11:17:12.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

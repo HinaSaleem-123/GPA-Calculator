@@ -1,0 +1,54 @@
+﻿<Page x:Class="GPA_Calculator.SelectionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Selection Page"
+      Background="#E0F7F7">
+
+    <Grid>
+        <Border Background="White"
+                CornerRadius="20"
+                Padding="30"
+                Width="370"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                BorderBrush="#008080"
+                BorderThickness="2">
+
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,0,0,10">
+                    <Button Width="50" Height="50"
+                            Click="NavigateButton_Click"
+                            Foreground="Black"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Cursor="Hand"
+                            HorizontalAlignment="Left">
+                        <Image Source="/back.png"
+                               Width="30"
+                               Height="30"
+                               Stretch="Uniform"/>
+                    </Button>
+
+                    <TextBlock Text="Choose Calculator"
+                               FontSize="28"
+                               FontWeight="Bold"
+                               Foreground="#008080"
+                               VerticalAlignment="Center"
+                               Margin="10,0,0,0"/>
+                </StackPanel>
+
+                <Button Content="GPA Calculator"
+                        Width="200" Height="45" FontSize="16"
+                        Background="#008080" Foreground="White"
+                        Margin="0,0,0,15"
+                        Click="GPA_Click"/>
+
+                <Button Content="CGPA Calculator"
+                        Width="200" Height="45" FontSize="16"
+                        Background="White" Foreground="#008080"
+                        BorderBrush="#008080" BorderThickness="2"
+                        Click="CGPA_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

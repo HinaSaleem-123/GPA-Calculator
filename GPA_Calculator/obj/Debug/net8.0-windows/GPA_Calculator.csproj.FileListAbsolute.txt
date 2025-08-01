@@ -1,0 +1,56 @@
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.exe
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.deps.json
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.runtimeconfig.json
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.dll
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.pdb
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Calculate.baml
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Start.baml
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Calculate.g.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Start.g.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator_MarkupCompile.cache
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.g.resources
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.AssemblyInfo.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.dll
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\refint\GPA_Calculator.dll
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.pdb
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.genruntimeconfig.cache
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\ref\GPA_Calculator.dll
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GradeSheet.g.cs
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GradeSheet.baml
+C:\Users\PMLS\Desktop\Sem6\Visual Programming\Lab\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator_MarkupCompile.lref
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.exe
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.deps.json
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.runtimeconfig.json
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.dll
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\bin\Debug\net8.0-windows\GPA_Calculator.pdb
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Start.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GradeSheet.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\Start.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator_MarkupCompile.cache
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator_MarkupCompile.lref
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GradeSheet.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.g.resources
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.AssemblyInfoInputs.cache
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.AssemblyInfo.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.csproj.CoreCompileInputs.cache
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.dll
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\refint\GPA_Calculator.dll
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.pdb
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPA_Calculator.genruntimeconfig.cache
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\ref\GPA_Calculator.dll
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\CGPACalculator.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\CGPACalculator.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\SelectionPage.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\SelectionPage.g.cs
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPACalculate.baml
+D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\obj\Debug\net8.0-windows\GPACalculate.g.cs

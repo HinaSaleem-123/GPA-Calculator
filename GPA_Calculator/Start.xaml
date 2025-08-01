@@ -1,0 +1,84 @@
+﻿<Page x:Class="GPA_Calculator.Start"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Start"
+      Height="600"
+      Width="600">
+
+    <Page.Resources>
+        <!-- Teal color palette -->
+        <Color x:Key="PrimaryTeal">#008080</Color>
+        <Color x:Key="DarkTeal">#006666</Color>
+        <Color x:Key="LightTeal">#E0F7F7</Color>
+        <SolidColorBrush x:Key="PrimaryTealBrush" Color="{StaticResource PrimaryTeal}" />
+        <SolidColorBrush x:Key="DarkTealBrush" Color="{StaticResource DarkTeal}" />
+        <SolidColorBrush x:Key="LightTealBrush" Color="{StaticResource LightTeal}" />
+    </Page.Resources>
+
+    <Grid Background="{StaticResource LightTealBrush}">
+        <Border CornerRadius="20" 
+                Padding="30" 
+                Background="White" 
+                BorderBrush="{StaticResource PrimaryTealBrush}" 
+                BorderThickness="2"
+                VerticalAlignment="Center" 
+                HorizontalAlignment="Center"
+                Width="400"
+               >
+            <Border.Effect>
+                <DropShadowEffect Color="Black" BlurRadius="10" ShadowDepth="3" Opacity="0.3"/>
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="GPA Calculator"
+                           FontSize="36"
+                           FontWeight="Bold"
+                           Foreground="{StaticResource PrimaryTealBrush}"
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,20"/>
+
+                <TextBlock Text="Enter Semester Number:"
+                           FontSize="16"
+                           FontWeight="SemiBold"
+                           Foreground="{StaticResource DarkTealBrush}"
+                           Margin="0,0,0,5"/>
+
+                <TextBox x:Name="SemesterTextBox"
+                         Height="35"
+                         FontSize="14"
+                         Padding="5"
+                         BorderBrush="{StaticResource PrimaryTealBrush}"
+                         BorderThickness="1"
+                         Background="#FFF"
+                         Margin="0,0,0,20"/>
+
+                <Button Content="Start Calculating"
+                    Width="200"
+                    Height="45"
+                    Margin="0,0,0,10"
+                    FontSize="16"
+                    FontWeight="Bold"
+                    Background="{StaticResource PrimaryTealBrush}"
+                    Foreground="White"
+                    BorderBrush="{StaticResource DarkTealBrush}"
+                    BorderThickness="2"
+                    Cursor="Hand"
+                    Click="StartCalculating_Click"> 
+
+                </Button>
+
+
+                <Button Content="See Grading Sheet"
+                        Width="150"
+                        Height="35"
+                        FontSize="14"
+                        Background="White"
+                        Foreground="{StaticResource PrimaryTealBrush}"
+                        BorderBrush="{StaticResource PrimaryTealBrush}"
+                        BorderThickness="1.5"
+                        Cursor="Hand"
+                        Click="GradeSheet_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

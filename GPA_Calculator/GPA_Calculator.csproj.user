@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GPACalculate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CGPACalculator.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GradeSheet.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelectionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Start.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

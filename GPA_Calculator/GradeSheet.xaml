@@ -1,0 +1,166 @@
+﻿<Page x:Class="GPA_Calculator.GradeSheet"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GPA_Calculator"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="00"
+      Title="GradeSheet">
+
+    <StackPanel Background="White" Margin="10">
+        <!-- Back Button -->
+        <Button Width="50" Height="50" Click="NavigateButton_Click" Foreground="Black" Background="Transparent" BorderThickness="0" Cursor="Hand" HorizontalAlignment="Left" >
+            <Image Source="D:\Desktop\VP project\GPA_Calculator\GPA_Calculator\back.png" Width="30" Height="30" Stretch="Uniform"/>
+        </Button>
+
+        <!-- Title -->
+        <TextBlock Text="Grading Table" Margin="20" FontSize="24" HorizontalAlignment="Center" FontWeight="Bold" Foreground="#FF006666"/>
+
+        <!-- Grading Table Grid -->
+        <Grid Width="450" Height="450" ShowGridLines="False">
+            <!-- Column and Row Definitions MUST be first inside Grid -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!-- Header Row -->
+            <Border Grid.Row="0" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5" Background="#FF008080">
+                <TextBlock Text="Marks Range" HorizontalAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="White" />
+            </Border>
+            <Border Grid.Row="0" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5" Background="#FF008080">
+                <TextBlock Text="Grade Point" HorizontalAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="White" />
+            </Border>
+            <Border Grid.Row="0" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5" Background="#FF008080">
+                <TextBlock Text="Letter Grade" HorizontalAlignment="Center" FontWeight="Bold" FontSize="15" Foreground="White" />
+            </Border>
+
+            <!-- Data Rows -->
+            <Border Grid.Row="1" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="85 and above" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="1" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="4.00" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="1" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="A+" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="2" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="80-84" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="2" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="3.66" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="2" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="A" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="3" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="75-79" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="3" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="3.33" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="3" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="B+" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="4" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="70-74" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="4" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="3.00" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="4" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="B" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="5" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="67-69" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="5" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="2.66" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="5" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="B-" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="6" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="64-66" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="6" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="2.33" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="6" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="C+" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="7" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="60-63" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="7" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="2.00" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="7" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="C" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="8" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="57-59" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="8" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="1.66" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="8" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="C-" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="9" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="53-56" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="9" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="1.33" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="9" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="D+" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="10" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="50-52" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="10" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="1.00" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="10" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="D" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+
+            <Border Grid.Row="11" Grid.Column="0" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="Below 50" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="11" Grid.Column="1" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="0.00" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+            <Border Grid.Row="11" Grid.Column="2" BorderBrush="Teal" BorderThickness="1" Padding="5">
+                <TextBlock Text="F" HorizontalAlignment="Center" FontSize="13" Foreground="#FF004D4D" />
+            </Border>
+        </Grid>
+    </StackPanel>
+</Page>

@@ -1,0 +1,132 @@
+﻿<Page x:Class="GPA_Calculator.GPACalculate"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="GpaPage"
+      Background="#E8F6F3"
+      Height="600" Width="580">
+
+    <Grid Margin="20">
+        <StackPanel>
+            <Button Width="50" Height="50" Click="NavigateButton_Click" Foreground="Black" Background="Transparent" BorderThickness="0" Cursor="Hand" HorizontalAlignment="Left">
+                <Image Source="/back.png" Width="30" Height="30" Stretch="Uniform"/>
+            </Button>
+        </StackPanel>
+
+        <TextBlock Text="GPA CALCULATOR"
+                   FontSize="32"
+                   FontWeight="Bold"
+                   Foreground="#007F73"
+                   HorizontalAlignment="Center"
+                   Margin="0,10,0,0"/>
+
+        <Border Background="White"
+                CornerRadius="20"
+                Padding="25"
+                Margin="0,70,0,80"
+                BorderBrush="#A0E7D7"
+                BorderThickness="2">
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBlock x:Name="Semester"
+                                   Text="Semester "
+                                   Foreground="#007F73"
+                                   FontWeight="Bold"
+                                   FontSize="16"/>
+                        <TextBlock x:Name="SemesterNumberTextBlock"
+                                   Text="I"
+                                   Foreground="#007F73"
+                                   FontWeight="Bold"
+                                   FontSize="16"/>
+                    </StackPanel>
+
+                    <WrapPanel Margin="40,0,0,0">
+                        <TextBlock Text="Course Name"
+                                   Foreground="Teal"
+                                   FontWeight="Bold"
+                                   Width="170"
+                                   Margin="0,0,30,0"/>
+                        <TextBlock Text="Grade"
+                                   Foreground="Teal"
+                                   FontWeight="Bold"
+                                   Width="70"
+                                   Margin="0,0,20,0"/>
+                        <TextBlock Text="Credits"
+                                   Foreground="Teal"
+                                   FontWeight="Bold"
+                                   Width="80"/>
+                    </WrapPanel>
+
+                    <StackPanel x:Name="CourseStackPanel" Margin="0,10,0,10">
+                        <WrapPanel Margin="40,0,0,0">
+                            <TextBox Foreground="Teal" Width="170" Margin="0,0,20,0" BorderBrush="Teal"/>
+                            <ComboBox Width="70" SelectedIndex="0" Foreground="Teal" Margin="0,0,20,0">
+                                <ComboBoxItem Content="A+"/>
+                                <ComboBoxItem Content="A"/>
+                                <ComboBoxItem Content="B+"/>
+                                <ComboBoxItem Content="B"/>
+                                <ComboBoxItem Content="B-"/>
+                                <ComboBoxItem Content="C+"/>
+                                <ComboBoxItem Content="C"/>
+                                <ComboBoxItem Content="C-"/>
+                                <ComboBoxItem Content="D+"/>
+                                <ComboBoxItem Content="D"/>
+                                <ComboBoxItem Content="F"/>
+                            </ComboBox>
+                            <TextBox Foreground="Teal" Width="80"/>
+                        </WrapPanel>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Center"
+                                Margin="0,10,0,0">
+                        <Button Content="🞥 Add Course"
+                                Width="90"
+                                Height="35"
+                                Background="#007F73"
+                                Foreground="White"
+                                FontWeight="SemiBold"
+                                BorderThickness="0"
+                                Margin="0,0,10,0"
+                                Cursor="Hand"
+                                Click="AddCourse_Click"/>
+
+                        <Button Content="✘ Clear All"
+                                Width="90"
+                                Height="35"
+                                Background="#D21312"
+                                Foreground="White"
+                                FontWeight="SemiBold"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                Click="ClearAll_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+
+        <StackPanel VerticalAlignment="Bottom"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,30">
+            <Button Content="Calculate"
+                    Width="100"
+                    Height="30"
+                    FontSize="14"
+                    FontWeight="Bold"
+                    Background="#0D0D5E"
+                    Foreground="White"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="CalculateGPA_Click"/>
+
+            <TextBlock x:Name="GpaResultTextBlock"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       Foreground="#0D0D5E"
+                       Margin="0,10,0,0"
+                       TextAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Page>
